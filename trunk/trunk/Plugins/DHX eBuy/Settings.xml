@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Option Value="EnableBuy" Set="True" />
+  <Option Value="BuyPoisons" Set="False" />
+  <Option Value="HaveMammoth" Set="False" />
+  <Option Value="TFTB" Set="100" />
+  <Option Value="TDTB" Set="100" />
+  <Option Value="PTB1" Set="1" />
+  <Option Value="PTB2" Set="2" />
+  <Option Value="PA1" Set="10" />
+  <Option Value="PA2" Set="10" />
+  <Option Value="BuyAmmo" Set="False" />
+  <Option Value="AATB" Set="1000" />
+</Settings>

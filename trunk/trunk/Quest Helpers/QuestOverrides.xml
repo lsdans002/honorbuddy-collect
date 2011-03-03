@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QuestHelp>
+  <!-- Scripted Quests that need Overrides-->
+  <Quest Id="375" Name="The Chill of Death" >
+    <Objective Type="Collect" ItemId="2320" Count="1">
+      <CollectFrom>
+        <Vendor Name="Abigail Shiel" Id="2118" />
+      </CollectFrom>
+    </Objective>
+    <Objective Type="CollectItem" ItemId="2876" CollectCount="5">
+      <CollectFrom>
+        <Mob Id="1553" Name="Greater Duskbat" />
+      </CollectFrom>
+    </Objective>
+  </Quest>
+  <Quest Id="437" Name="The Dead Fields">
+    <Objective Type="CollectItem" ItemId="3622" CollectCount="1">
+      <CollectFrom>
+        <Mob Id="1983" Name="Nightlash" />
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="1098.544" Y="1480.938" Z="33.14467" />
+        <Hotspot X="1035.31" Y="1600.487" Z="26.59595" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="7321" Name="Soothing Turtle Bisque">
+    <Objective Type="CollectItem" ItemId="3712" CollectCount="10">
+      <CollectFrom>
+        <Mob Id="2408" Name="Snapjaw" />
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="73.44636" Y="-1116.359" Z="39.11779" />
+        <Hotspot X="-112.813" Y="-1103.934" Z="38.02813" />
+        <Hotspot X="-301.7724" Y="-1082.001" Z="36.41333" />
+        <Hotspot X="-430.6927" Y="-999.3046" Z="34.58612" />
+        <Hotspot X="-503.3226" Y="-900.2946" Z="32.572" />
+        <Hotspot X="-625.3222" Y="-742.2853" Z="8.308135" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="429" Name="Wild Hearts">
+    <Objective Type="Collect" ItemId="3164" CollectCount="6">
+      <Hotspots>
+        <Hotspot X="1503.869" Y="628.9768" Z="46.80434" />
+        <Hotspot X="1413.785" Y="811.7047" Z="47.31647" />
+        <Hotspot X="1331.271" Y="1047.422" Z="52.14166" />
+        <Hotspot X="1262.934" Y="1028.757" Z="43.54039" />
+        <Hotspot X="1323.962" Y="892.5505" Z="50.27853" />
+        <Hotspot X="1397.941" Y="681.8995" Z="50.39689" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1473" Name="Creature of the Void" >
+    <TurnIn X="1711.594" Y="57.16721" Z="-62.28914" />
+  </Quest>
+  <Quest Id="1478" Name="Halgar's Summons" >
+    <TurnIn X="1711.594" Y="57.16721" Z="-62.28914" />
+  </Quest>
+  <Quest Id="447" Name="A Recipe For Death" >
+    <TurnIn X="1434.484" Y="404.8544" Z="-85.2587"  />
+  </Quest>
+  <Quest Id="405" Name="The Prodigal Lich" >
+    <TurnIn X="1766.27" Y="66.6262" Z="-46.3214" />
+  </Quest>
+  <Quest Id="423" Name="Arugal's Folly">
+    <Objective Type="Collect" ItemId="7846" CollectCount="10">
+      <!-- Crag Coyote Fang -->
+      <Hotspots>
+        <Hotspot X="809.6897" Y="1760.943" Z="19.94995" />
+        <Hotspot X="1028.713" Y="1669.852" Z="23.167" />
+        <Hotspot X="926.8669" Y="1497.505" Z="38.41599" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1419" Name="Coyote Thieves" >
+    <Objective Type="Collect" ItemId="7846" CollectCount="10">
+      <Hotspots>
+        <Hotspot X="-6435.82" Y="-2426.149" Z="310.5116" />
+        <Hotspot X="-7097.048" Y="-2775.448" Z="242.4612" />
+        <Hotspot X="-7044.044" Y="-3035.331" Z="240.9172" />
+        <Hotspot X="-6709.627" Y="-3362.255" Z="241.7509" />
+        <Hotspot X="-6950.489" Y="-2373.144" Z="242.0572" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="2258" Name="Badlands Reagent Run">
+    <Objective Type="Collect" ItemId="7846" CollectCount="10">
+      <Hotspots>
+        <Hotspot X="-6435.82" Y="-2426.149" Z="310.5116" />
+        <Hotspot X="-7097.048" Y="-2775.448" Z="242.4612" />
+        <Hotspot X="-7044.044" Y="-3035.331" Z="240.9172" />
+        <Hotspot X="-6709.627" Y="-3362.255" Z="241.7509" />
+        <Hotspot X="-6950.489" Y="-2373.144" Z="242.0572" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="3822" Name="Krom'Grul">
+    <Objective Type="Collect" ItemId="11058" CollectCount="1">
+      <Hotspots>
+        <!--Krom'gol-->
+        <Hotspot X="-7924.122" Y="-2652.248" Z="159.4574" />
+        <Hotspot X="-7958.506" Y="-2602.755" Z="173.7128" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="1485" Name="Vile Familiars">
+    <!-- The warlock one -->
+    <Objective Type="Collect" ItemId="6487" CollectCount="6">
+      <Hotspots>
+        <Hotspot X="-210.2614" Y="-4396.798" Z="63.39328" />
+        <Hotspot X="-197.9216" Y="-4325.853" Z="66.50061" />
+        <Hotspot X="-123.572" Y="-4321.891" Z="66.0777" />
+        <Hotspot X="-94.0592" Y="-4289.145" Z="61.55334" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="792" Name="Vile Familiars">
+    <!-- The regular one -->
+    <Objective Type="Slay" MobId="3101" SlayCount="8">
+      <Hotspots>
+        <Hotspot X="-210.2614" Y="-4396.798" Z="63.39328" />
+        <Hotspot X="-197.9216" Y="-4325.853" Z="66.50061" />
+        <Hotspot X="-123.572" Y="-4321.891" Z="66.0777" />
+        <Hotspot X="-94.0592" Y="-4289.145" Z="61.55334" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+  <Quest Id="479" Name="Ambermill Investigations">
+    <Objective Type="CollectItem" ItemId="3354" CollectCount="8">
+      <CollectFrom>
+        <Mob Id="1912" Name="Dalaran Protector" />
+        <Mob Id="1914" Name="Dalaran Mage" />
+        <Mob Id="1915" Name="Dalaran Conjuror" />
+      </CollectFrom>
+      <Hotspots>
+        <Hotspot X="6.687876" Y="1112.049" Z="64.85099" />
+        <Hotspot X="80.52681" Y="1109.339" Z="69.92816" />
+        <Hotspot X="134.6162" Y="1173.846" Z="68.29665" />
+        <Hotspot X="-1.727237" Y="1137.878" Z="65.55265" />
+      </Hotspots>
+    </Objective>
+  </Quest>
+</QuestHelp>

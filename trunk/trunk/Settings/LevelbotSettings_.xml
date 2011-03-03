@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelbotSettings>
+  <MailRecipient></MailRecipient>
+  <FoodName>Automatically detected, press to change</FoodName>
+  <DrinkName>Automatically detected, press to change</DrinkName>
+  <MountName>Automatically detected, press to change</MountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>30</PullDistance>
+  <LootRadius>45</LootRadius>
+  <FindVendorsAutomatically>False</FindVendorsAutomatically>
+  <TrainNewSkills>False</TrainNewSkills>
+  <LearnFlightPaths>True</LearnFlightPaths>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+  <GroundMountFarmingMode>False</GroundMountFarmingMode>
+  <LastUsedPath></LastUsedPath>
+  <MountDistance>75</MountDistance>
+</LevelbotSettings>
