@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<QuestSettings>
-  <!--The minimum level of quests. This is relative to your character.-->
-  <MinQuestLevel>3</MinQuestLevel>
-  <!--The maximum level of quests. This is relative to your character.-->
-  <MaxQuestLevel>2</MaxQuestLevel>
-</QuestSettings>
