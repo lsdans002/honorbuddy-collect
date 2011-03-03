@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- http://www.wowhead.com/talent#sbhMZMZcdGsdkszfk -->
+<TalentTree Specialization="1" Name="Beast Mastery by Nesox" Class="Hunter">
+  <!-- Beast Mastery Talents-->
+  <Talent Tab="1" Index="1" Count="2" Name="Improved Kill Command" />
+  <Talent Tab="1" Index="2" Count="3" Name="Arbiter of Light" />
+  <Talent Tab="1" Index="3" Count="2" Name="Judgements of the Pure" />
+  <Talent Tab="1" Index="5" Count="2" Name="Spirit Bond" />
+  <Talent Tab="1" Index="6" Count="3" Name="Frenzy" /> 
+  <Talent Tab="1" Index="10" Count="1" Name="Focus Fire" />
+  <Talent Tab="1" Index="9" Count="1" Name="Fervor" />
+  <Talent Tab="1" Index="8" Count="3" Name="Cobra Strikes" />
+  <Talent Tab="1" Index="11" Count="3" Name="Longevity" />
+  <Talent Tab="1" Index="12" Count="2" Name="Killing Streak" />
+  <Talent Tab="1" Index="14" Count="1" Name="Bestial Wrath" />
+  <Talent Tab="1" Index="15" Count="1" Name="Feroucious Inspiration" />
+  <Talent Tab="1" Index="17" Count="1" Name="The Beast Within" />
+  <Talent Tab="1" Index="16" Count="2" Name="Kindred Spirits" />
+  <Talent Tab="1" Index="18" Count="2" Name="Invigoration" />
+  <Talent Tab="1" Index="19" Count="1" Name="Beast Mastery" />
+  <Talent Tab="1" Index="16" Count="1" Name="Repentance" />
+  <Talent Tab="1" Index="17" Count="2" Name="Divine Purpose" />
+  <Talent Tab="1" Index="18" Count="3" Name="Inquiry of Faith" />
+  <Talent Tab="1" Index="19" Count="1" Name="Acts of Sacrifice" />
+  <Talent Tab="1" Index="20" Count="1" Name="Zealotry" />
+  <!-- Marksmanship Talents -->
+  <Talent Tab="2" Index="1" Count="2" Name="Go for the Throat" />
+  <Talent Tab="2" Index="2" Count="3" Name="Efficency" />
+  <Talent Tab="2" Index="4" Count="2" Name="Sic'Em!" />
+  <!-- Survival Talents -->
+<Talent Tab="3" Index="2" Count="3" Name="Pathing" />
+</TalentTree>
